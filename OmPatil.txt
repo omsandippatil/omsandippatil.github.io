@@ -1,6 +1,6 @@
 <span id="a">omp@til</span>:<span id="b">~</span><span id="c">$</span> cd OmPatil/<!-- kjsdfhkjdhsfkjdshfkj -->Portfolio
 <span id="a">omp@til</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->OmPatil.txt<br/><br/>
-My Name is "<span id="k">Om Sandeep Patil</span>". <!-- sjkfhskjf -->
+My Name is <span id="k">Om Patil</span>. <!-- sjkfhskjf -->
 
 the human embodiment of Ctrl+C and Ctrl+V<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm Om Patil, your friendly neighborhood tech whisperer and software sorcerer. By day, I'm a code conjurer, and by night, I'm the hero Gotham deserves (as long as Gotham needs Python scripts and Java beans).</p>
 
