@@ -8,7 +8,7 @@ body {
 
 #console {
 	font-family: courier, monospace;
-	color: #fff;
+	color: #FD5602;
 	width:750px;
 	margin-left:auto;
 	margin-right:auto;
@@ -17,7 +17,7 @@ body {
 }
 
 a {
-	color: #0bc;
+	color: #000;
 	text-decoration: none;
 }
 
