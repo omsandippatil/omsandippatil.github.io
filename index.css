@@ -42,7 +42,7 @@ a {
 }
 
 @keyframes change {
-    	0%  { color:  #0f0; }
-    	50% { color:  #0f0; }
+    	0%  { color:  #fff; }
+    	50% { color:  #fff; }
     	99% { color: black; }
 }
