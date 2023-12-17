@@ -14,11 +14,11 @@ the human embodiment of Ctrl+C and Ctrl+V<!-- laglaglaglaglaglaglaglaglaglaglagl
 
 <p>So, buckle up, fellow techies, as I embark on this wild journey through lines of code, circuit boards, and a questionable amount of coffee. If you see someone muttering to their computer screen about semicolons and brackets, it's probably just me. Remember, I'm not antisocial; I'm just buffering. </p>
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also find my recent work on my <a href="https://github.io/omsandeepatil"> Github Page.</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Or if you are not a techie <br><br><br>You are someone like a Nick Fury looking to hire me, You can check out my <a href="https://www.linkedin.com/in/omsandeeppatil/"> Linkedin Page. </a> </p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> You can also find my recent work on my <a href="https://github.io/omsandeepatil"> Github Page</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Or if you are not a techie <br><br><br>You are someone like a Nick Fury looking to hire me, You can check out my <a href="https://www.linkedin.com/in/omsandeeppatil/"> Linkedin Page </a> </p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can also check out the unnecessary time I spend on Internet, here: <br> <a href="https://peerlist.io/omsandeeppatil">Peerlist</a> <br> <a href="https://instagram.com/omsandeeppatil">Instagram</a> <br> <a href="https://www.producthunt.com/@omsandeeppatil">Producthunt</a></p>
 
 If you are really and old guy like Nick, <!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="omsandeeppatil02@gmail.com">Email</a>.
 
-<p>NYours Faithfuly!</p
+<p>Yours Faithfuly!</p
 <a href="https://github.io/omsandeepatil"> Om Patil</a>
