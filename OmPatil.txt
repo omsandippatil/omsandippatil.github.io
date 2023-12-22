@@ -2,7 +2,7 @@
 <span id="a">omp@til:</span><span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->OmPatil.txt<br/><br/>
 My Name is <span id="k">Om Patil</span>. <!-- sjkfhskjf -->
 
-the human embodiment of Ctrl+C and Ctrl+V<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm Om Patil, your friendly neighborhood tech whisperer and software sorcerer. By day, I'm a code conjurer, and by night, I'm the hero Gotham deserves (as long as Gotham needs Python scripts and Java beans).</p>
+the human embodiment of Ctrl+C and Ctrl+V<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am your friendly neighborhood tech whisperer and software sorcerer. By day, I'm a code conjurer, and by night, I'm the hero Gotham deserves (as long as Gotham needs Python scripts and Java beans).</p>
 
 <p>My love affair with technology started when I realized that pressing random buttons on the keyboard wasn't a viable career path. Since then, I've upgraded from smashing keys to writing code that I don't even sometimes understood</p>
 
